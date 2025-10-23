@@ -121,7 +121,7 @@ signos	bool	   Incluir símbolos especiales.
 Ejemplo de ejecución:
 
 crear_contrasenya(10, True, True, True, True)
-# → 9Er,5Vn8P$
+- 9Er,5Vn8P$
 
 Extra:
 Explorar cómo copiar automáticamente la contraseña al portapapeles (Ctrl + C).
@@ -147,18 +147,6 @@ Ejemplo de salida esperada:
   ...
 }
 ```
-
-⸻
-
-Tecnologías y Herramientas
-	•	Python 3.12+
-	•	Jupyter Notebook
-	•	NumPy
-	•	Pandas
-	•	Google Colab o VSCode
-	•	GitHub
-
-⸻
 
 Conclusión
 
